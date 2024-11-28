@@ -31,7 +31,7 @@
 
 5. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template*=https://github.com/DeeCeeXxx/Queen_Anita-V3)** 
 
-6. **Deploy on [`REPLIT`](https://replit.com/github/Deeceexxx/Queen_Anita-V2)** 
+6. **Deploy on [`REPLIT`](https://replit.com/github/DemmyJay-99/Queen_Anita-V2)** 
 
 7. **Deploy on [`RAILWAY`](https://railway.com/github/Deeceexxx/Queen_Anita-V2)**  
 
